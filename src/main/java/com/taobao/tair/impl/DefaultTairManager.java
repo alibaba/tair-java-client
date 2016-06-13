@@ -53,7 +53,7 @@ import com.taobao.tair.packet.TairPacketStreamer;
 
 public class DefaultTairManager implements TairManager {
 	private static final Log log = LogFactory.getLog(DefaultTairManager.class);
-	protected static String clientVersion = "TairClient 2.3.4.3";
+	protected static String clientVersion = "TairClient 2.3.5";
 	protected List<String> configServerList = null;
 	protected String groupName = null;
 	protected ConfigServer configServer = null;

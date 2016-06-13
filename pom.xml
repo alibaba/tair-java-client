@@ -32,9 +32,9 @@
 	<name>Tair Java Client</name>
 	<groupId>com.taobao.tair</groupId>
 	<artifactId>tair-client</artifactId>
-	<version>2.3.4</version>
+	<version>2.3.5</version>
 	<packaging>jar</packaging>
-	
+
 	<distributionManagement>
 		<snapshotRepository>
 			<id>oss</id>

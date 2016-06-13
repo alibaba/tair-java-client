@@ -214,7 +214,7 @@ public class TairConstant {
     public static final int TAIR_MAX_COUNT = 1024;
     public static final int TAIR_MALLOC_MAX = 1 << 20; // 1MB
     
-    public static final int NAMESPACE_MAX = 1023;
+    public static final int NAMESPACE_MAX = 65535;
     
     public static final int ITEM_ALL = 65537;
     
